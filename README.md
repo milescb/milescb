@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, I'm Miles! &nbsp;&nbsp; &#12299; <sup> Interested in fundamental physics and mathematics. Looking to learn more about computation! <sup/>
 
-<!--
-**lvb5/lvb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+#### Languages:
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+&nbsp;&nbsp;&nbsp;
+#### Tools:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Student at Lawrence University** &#12299;_physics and mathematics major_
+<br/>
+**Experimental researcher** &#12299;_conducted research at Lawrence University and the University of California, Davis_
+
+----
+
+<a href="https://www.instagram.com/miles.cb/">
+  <img align="left" alt="Miles' Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/miles-cochran-branson-b22b721b1/">
+  <img align="left" alt="Miles' LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<!---
+Modeled off of https://github.com/moertel/moertel
 -->
