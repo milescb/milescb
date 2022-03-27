@@ -4,7 +4,7 @@
   
 **Student at Lawrence University** &#12299;_physics and mathematics major_
 <br/>
-**Experimental researcher** &#12299;_conducted research at Lawrence University and the University of California, Davis_
+**Experimental researcher** &#12299;_conducted research at the University of California, Davis and at Lawrence University_
 
 Languages:
   
