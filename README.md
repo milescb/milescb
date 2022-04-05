@@ -1,4 +1,4 @@
-### Hi, I'm Miles! &nbsp;&nbsp; &#12299; <sup> Interested in fundamental physics and mathematics. Looking to learn more about computation! <sup/>
+### Hi, I'm Miles! &nbsp;&nbsp; &#12299; <sup> Looking to learn more about computation! <sup/>
 
 ----
   
