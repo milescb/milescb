@@ -1,4 +1,4 @@
-### Hi, I'm Miles! &nbsp;&nbsp; &#12299; <sup> Interested in machine learning applications to fundamental physics research and applications of SciML <sup/>
+### Hi, I'm Miles! &nbsp;&nbsp; &#12299; <sup> Interested in machine learning applications to fundamental physics research <sup/>
 
 ----
   
