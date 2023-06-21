@@ -2,9 +2,9 @@
 
 ----
   
-**Student at Lawrence University** &#12299;_physics and mathematics major_
+**PhD Student at University of Washington** &#12299;_department of physics, elemetary particle experiment group_
 <br/>
-**Experimental researcher** &#12299;_conducted research at Unviersity of Washington in experimental particle physics, the University of California, Davis in high energy nuclear physics, and Lawrence University in physics education research_
+**Resaerch Interests** &#12299;_LHC physics, machine learning for algorithm development in HEP, physics-informed neural networks, scientific machine learning_
 
 Languages:
   
