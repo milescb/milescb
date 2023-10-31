@@ -4,7 +4,7 @@
   
 **PhD Student at University of Washington** &#12299;_department of physics, elemetary particle experiment group_
 <br/>
-**Resaerch Interests** &#12299;_LHC physics, machine learning for algorithm development in HEP, physics-informed neural networks, scientific machine learning_
+**Research Interests** &#12299;_LHC physics, machine learning for algorithm development in HEP, physics-informed neural networks, scientific machine learning_
 
 Languages:
   
