@@ -1,10 +1,10 @@
-### Hi, I'm Miles! &nbsp;&nbsp; &#12299; <sup> Interested in machine learning applications to fundamental physics research <sup/>
+### Hi, I'm Miles! &nbsp;&nbsp; &#12299; <sup> Interested in machine learning and inference as-a-Service applications to fundamental physics research <sup/>
 
 ----
   
 **PhD Student at University of Washington** &#12299;_department of physics, elemetary particle experiment group_
 <br/>
-**Research Interests** &#12299;_LHC physics, machine learning for algorithm development in HEP, physics-informed neural networks, scientific machine learning_
+**Research Interests** &#12299;_LHC physics, inference as-a-Service (IaaS), machine learning for algorithm development in HEP, physics-informed neural networks_
 
 Languages:
   
